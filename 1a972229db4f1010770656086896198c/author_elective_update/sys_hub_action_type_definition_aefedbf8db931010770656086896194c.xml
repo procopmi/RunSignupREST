@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>get_races</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Get Races</name>
+        <natlang/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-14 20:43:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aefedbf8db931010770656086896194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Races</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RunSignup Spoke" source="x_172337_runsignup">1a972229db4f1010770656086896198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RunSignup Spoke">1a972229db4f1010770656086896198c</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_aefedbf8db931010770656086896194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-14 20:43:19</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=aefedbf8db931010770656086896194c"/>
+    <sys_variable_value action="DELETE" query="document_key=aefedbf8db931010770656086896194c"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RunSignup Spoke">1a972229db4f1010770656086896198c</application>
+        <file_path/>
+        <instance_id>4af8a26edb0397441ddcf22ebf961917</instance_id>
+        <instance_name>dev63807</instance_name>
+        <name>sys_hub_action_type_definition_aefedbf8db931010770656086896194c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>get_races</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Get Races</name>
+        <natlang/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-14 20:43:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aefedbf8db931010770656086896194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Races</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RunSignup Spoke" source="x_172337_runsignup">1a972229db4f1010770656086896198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RunSignup Spoke">1a972229db4f1010770656086896198c</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_aefedbf8db931010770656086896194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-14 20:43:19</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=aefedbf8db931010770656086896194c"/>
+    <sys_variable_value action="delete_multiple" query="document_key=aefedbf8db931010770656086896194c"/>
+</record_update>]]></payload>
+        <payload_hash>1177466767</payload_hash>
+        <record_name>Get Races</record_name>
+        <reverted_from/>
+        <source>6f6a67ebdba3101077065608689619c8</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-05 20:52:29</sys_created_on>
+        <sys_id>a57a2bebdba310107706560868961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174fa8981ff0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-05 20:52:29</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>257a2beb04a310101e20fb93c23ae210</update_guid>
+        <update_guid_history>257a2beb04a310101e20fb93c23ae210:0,800a6d1a762310104b9fc77c1c398ef8:-1985222814,2ea765d685231010f426a1c8db70fe29:-364358751,7bf66d96fd2310104f3b4cafbfd30968:1872067449,89f62d96ca2310103704be9149ddd260:-1593977609,aafe173c129310108bcc783640cf10fc:-1867600385</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 17:24:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>135811e854524800a71e6ac926076400</sys_id>
+        <sys_metadata>aefedbf8db931010770656086896194c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Races</sys_name>
+        <sys_package display_value="RunSignup Spoke" source="x_172337_runsignup">1a972229db4f1010770656086896198c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RunSignup Spoke">1a972229db4f1010770656086896198c</sys_scope>
+        <sys_scope_delete display_value="">415d3d8261224680b397f5b3c1e51c04</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_aefedbf8db931010770656086896194c</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_aefedbf8db931010770656086896194c">a57a2bebdba310107706560868961910</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 17:24:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
